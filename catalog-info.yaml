@@ -6,6 +6,7 @@ metadata:
   labels:
     example.com/custom: custom_label_value
   annotations:
+    github.com/project-slug: oconnormj/angular-tour-of-heroes
     example.com/service-discovery: artistweb
     circleci.com/project-slug: github/example-org/artist-website
   tags:
